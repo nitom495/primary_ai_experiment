@@ -1,0 +1,15 @@
+.idea/
+.venv/
+venv/
+env/
+envs/
+pytorch/
+.conda/
+**/conda-meta/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*_混淆矩阵.png
+准确率变化曲线.png
+运行结果.png
+购买行为分类实验_*.docx
