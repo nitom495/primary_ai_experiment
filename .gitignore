@@ -9,8 +9,6 @@ pytorch/
 __pycache__/
 *.py[cod]
 .pytest_cache/
-*_混淆矩阵.png
-准确率变化曲线.png
 运行结果.png
 分步优化准确率.png
 *.docx.docx
